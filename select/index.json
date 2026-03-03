@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "So High",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-03-03T13:56:52.775077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "So Low, So High",
+      "artist": "Maps",
+      "has_synced": true,
+      "path": "select/01_So_Low,_So_High_Maps.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "So Low So High",
+      "artist": "Maps",
+      "has_synced": true,
+      "path": "select/02_So_Low_So_High_Maps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So High so Low",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/03_So_High_so_Low_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So High",
+      "artist": "Ghost Loft",
+      "has_synced": false,
+      "path": "select/04_So_High_Ghost_Loft.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She's So High",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/05_She's_So_High_Blur.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She's So High (Single Version)",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/06_She's_So_High_(Single_Version)_Blur.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So High",
+      "artist": "Blankenberge",
+      "has_synced": false,
+      "path": "select/07_So_High_Blankenberge.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feeling So High",
+      "artist": "Araabmuzik",
+      "has_synced": false,
+      "path": "select/08_Feeling_So_High_Araabmuzik.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Got so High",
+      "artist": "Third Eye Blind",
+      "has_synced": false,
+      "path": "select/09_Got_so_High_Third_Eye_Blind.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm so High",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/10_I'm_so_High_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love So High",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/11_Love_So_High_Cher.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So High",
+      "artist": "Ski Mask the Slump God",
+      "has_synced": true,
+      "path": "select/12_So_High_Ski_Mask_the_Slump_God.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel So High",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/13_Feel_So_High_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel So High",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/14_Feel_So_High_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feel So High (Live In London)",
+      "artist": "Des'ree",
+      "has_synced": true,
+      "path": "select/15_Feel_So_High_(Live_In_London)_Des'ree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So High",
+      "artist": "Eliza Doolittle",
+      "has_synced": true,
+      "path": "select/16_So_High_Eliza_Doolittle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So High",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_So_High_Doja_Cat.txt"
+    }
+  ]
+}
